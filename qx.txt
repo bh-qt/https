@@ -26,9 +26,9 @@ http=a4.ap.fastqvpn.com:29980, username=359719451865645056, password=3de38b27-6a
 http=a4.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn4 ID3
 http=a4.ap.fastqvpn.com:29980, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn4 ID4
 http=a5.ap.fastqvpn.com:29980, username=289830219345297408, password=929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID1
-http=a5.ap.fastqvpn.com:29981, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID2
-http=a5.ap.fastqvpn.com:29982, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID3
-http=a5.ap.fastqvpn.com:29983, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID4
+http=a5.ap.fastqvpn.com:29980, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID2
+http=a5.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID3
+http=a5.ap.fastqvpn.com:29980, username=366279056288645120, password=c96e36a1-dec5-4a21-9c5c-b44602493b79, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Fastqvpn5 ID4
 http=ca.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Epic加拿大1
 http=ca2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Epic加拿大2
 http=ca3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=Epic加拿大3
