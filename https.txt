@@ -1,19 +1,33 @@
 proxies:
+
+
+  - {name: fastq-a1-405, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: fastq-a2-405, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: fastq-a3-405, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: fastq-a4-405, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: fastq-a5-405, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: er3-a1-405, server: a1.er3.xyz, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
+  - {name: er3-au-405, server: ap1-au.er3.xyz, port: 29982, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
+  - {name: er3-ca-405, server: ap1-ca.er3.xyz, port: 29983, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
+  - {name: er3-ge-405, server: ap1-ge.er3.xyz, port: 29984, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
+  - {name: er3-sg-405, server: ap1-sg.er3.xyz, port: 29985, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
+  - {name: er3-uk-405, server: ap1-uk.er3.xyz, port: 29986, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true} 
+  - {name: fastq-a1-416, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: fastq-a2-416, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: fastq-a3-416, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: fastq-a4-416, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: fastq-a5-416, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: er3-a1-416, server: a1.er3.xyz, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
+  - {name: er3-au-416, server: ap1-au.er3.xyz, port: 29982, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
+  - {name: er3-ca-416, server: ap1-ca.er3.xyz, port: 29983, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
+  - {name: er3-ge-416, server: ap1-ge.er3.xyz, port: 29984, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
+  - {name: er3-sg-416, server: ap1-sg.er3.xyz, port: 29985, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
+  - {name: er3-uk-416, server: ap1-uk.er3.xyz, port: 29986, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}  
+
   - {name: 🇺🇸 US-Innlym, server: bv1.innlym.me, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇺🇸 US-Ppvpn, server: neo.ppvpn.net, port: 1026, type: http, tls: true, skip-cert-verify: false}
   - {name: fanfanhai, server: fanfanhai.xyz, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: mmkker, server: mmkker.xyz, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 ghelper-hkbn1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 ghelper-hkbn2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
-  - {name: ghelper-de, server: de.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
-  - {name: fastqvpn-a1, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastqvpn-a2, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastqvpn-a3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastqvpn-a4, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastqvpn-a5, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: er3-a1, server: a1.er3.xyz, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-au, server: ap1-au.er3.xyz, port: 29982, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-ca, server: ap1-ca.er3.xyz, port: 29983, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-ge, server: ap1-ge.er3.xyz, port: 29984, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-sg, server: ap1-sg.er3.xyz, port: 29985, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-uk, server: ap1-uk.er3.xyz, port: 29986, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true} 
+  - {name: ghelper-de, server: de.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}  
