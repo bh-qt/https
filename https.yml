@@ -5,31 +5,36 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-
-
-  - {name: fastq-a1-405, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastq-a2-405, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastq-a3-405, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastq-a4-405, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: fastq-a5-405, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
-  - {name: er3-a1-405, server: a1.er3.xyz, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-au-405, server: ap1-au.er3.xyz, port: 29982, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-ca-405, server: ap1-ca.er3.xyz, port: 29983, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-ge-405, server: ap1-ge.er3.xyz, port: 29984, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-sg-405, server: ap1-sg.er3.xyz, port: 29985, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true}
-  - {name: er3-uk-405, server: ap1-uk.er3.xyz, port: 29986, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: true} 
-  - {name: fastq-a1-416, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
-  - {name: fastq-a2-416, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
-  - {name: fastq-a3-416, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
-  - {name: fastq-a4-416, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
-  - {name: fastq-a5-416, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
-  - {name: er3-a1-416, server: a1.er3.xyz, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
-  - {name: er3-au-416, server: ap1-au.er3.xyz, port: 29982, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
-  - {name: er3-ca-416, server: ap1-ca.er3.xyz, port: 29983, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
-  - {name: er3-ge-416, server: ap1-ge.er3.xyz, port: 29984, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
-  - {name: er3-sg-416, server: ap1-sg.er3.xyz, port: 29985, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}
-  - {name: er3-uk-416, server: ap1-uk.er3.xyz, port: 29986, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: true}  
-
+# username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac
+  - {name: Fastq-a1-40536, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a2-40536, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a3-40536, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a4-40536, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a5-40536, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  
+  - {name: 🇭🇰 Fastq-HK-G1-40536, server: global.ap.fastqvpn.com, port: 29980, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false} 
+  - {name: 🇦🇺 Fastq-AU-G2-40536, server: global.ap.fastqvpn.com, port: 29982, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: 🇨🇦 Fastq-CA-G3-40536, server: global.ap.fastqvpn.com, port: 29983, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: 🇩🇪 Fastq-DE-G4-40536, server: global.ap.fastqvpn.com, port: 29984, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: 🇯🇵 Fastq-JP-G5-40536, server: global.ap.fastqvpn.com, port: 29985, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 Fastq-SG-G6-40536, server: global.ap.fastqvpn.com, port: 29986, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: 🇬🇧 Fastq-UK-G7-40536, server: global.ap.fastqvpn.com, port: 29987, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+  - {name: 🇺🇸 Fastq-US-G7-40536, server: global.ap.fastqvpn.com, port: 29988, type: http, username: 405367546741522432, password: abae5ebd-9abf-419e-b68b-a31e8f5096ac, tls: true, skip-cert-verify: false}
+# username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9
+  - {name: Fastq-a1-41692, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a2-41692, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a3-41692, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a4-41692, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: Fastq-a5-41692, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  
+  - {name: 🇭🇰 Fastq-HK-G1-41692, server: global.ap.fastqvpn.com, port: 29980, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false} 
+  - {name: 🇦🇺 Fastq-AU-G2-41692, server: global.ap.fastqvpn.com, port: 29982, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: 🇨🇦 Fastq-CA-G3-41692, server: global.ap.fastqvpn.com, port: 29983, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: 🇩🇪 Fastq-DE-G4-41692, server: global.ap.fastqvpn.com, port: 29984, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: 🇯🇵 Fastq-JP-G5-41692, server: global.ap.fastqvpn.com, port: 29985, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 Fastq-SG-G6-41692, server: global.ap.fastqvpn.com, port: 29986, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: 🇬🇧 Fastq-UK-G7-41692, server: global.ap.fastqvpn.com, port: 29987, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
+  - {name: 🇺🇸 Fastq-US-G7-41692, server: global.ap.fastqvpn.com, port: 29988, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
   - {name: 🇺🇸 US-Innlym, server: bv1.innlym.me, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇺🇸 US-Ppvpn, server: neo.ppvpn.net, port: 1026, type: http, tls: true, skip-cert-verify: false}
   - {name: fanfanhai, server: fanfanhai.xyz, port: 443, type: http, tls: true, skip-cert-verify: false}
@@ -37,34 +42,39 @@ proxies:
   - {name: 🇭🇰 ghelper-hkbn1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 ghelper-hkbn2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: ghelper-de, server: de.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}  
+ 
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
@@ -78,63 +88,71 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
       - mmkker
       - 🇭🇰 ghelper-hkbn1
       - 🇭🇰 ghelper-hkbn2
-      - ghelper-de	
+      - ghelper-de
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
@@ -147,28 +165,32 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
@@ -181,28 +203,32 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
@@ -215,63 +241,71 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
       - mmkker
       - 🇭🇰 ghelper-hkbn1
       - 🇭🇰 ghelper-hkbn2
-      - ghelper-de	
+      - ghelper-de
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
@@ -301,28 +335,32 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - fastq-a1-405
-      - fastq-a2-405
-      - fastq-a3-405
-      - fastq-a4-405
-      - fastq-a5-405
-      - er3-a1-405
-      - er3-au-405
-      - er3-ca-405
-      - er3-ge-405
-      - er3-sg-405
-      - er3-uk-405
-      - fastq-a1-416
-      - fastq-a2-416
-      - fastq-a3-416
-      - fastq-a4-416
-      - fastq-a5-416
-      - er3-a1-416
-      - er3-au-416
-      - er3-ca-416
-      - er3-ge-416
-      - er3-sg-416
-      - er3-uk-416
+      - Fastq-a1-40536
+      - Fastq-a2-40536
+      - Fastq-a3-40536
+      - Fastq-a4-40536
+      - Fastq-a5-40536
+      - 🇭🇰 Fastq-HK-G1-40536  
+      - 🇦🇺 Fastq-AU-G2-40536 
+      - 🇨🇦 Fastq-CA-G3-40536
+      - 🇩🇪 Fastq-DE-G4-40536
+      - 🇯🇵 Fastq-JP-G5-40536 
+      - 🇸🇬 Fastq-SG-G6-40536 
+      - 🇬🇧 Fastq-UK-G7-40536 
+      - 🇺🇸 Fastq-US-G7-40536
+      - Fastq-a1-41692
+      - Fastq-a2-41692
+      - Fastq-a3-41692
+      - Fastq-a4-41692
+      - Fastq-a5-41692  
+      - 🇭🇰 Fastq-HK-G1-41692
+      - 🇦🇺 Fastq-AU-G2-41692
+      - 🇨🇦 Fastq-CA-G3-41692
+      - 🇩🇪 Fastq-DE-G4-41692
+      - 🇯🇵 Fastq-JP-G5-41692
+      - 🇸🇬 Fastq-SG-G6-41692
+      - 🇬🇧 Fastq-UK-G7-41692
+      - 🇺🇸 Fastq-US-G7-41692
       - 🇺🇸 US-Innlym
       - 🇺🇸 US-Ppvpn
       - fanfanhai
@@ -331,6 +369,9 @@ proxy-groups:
       - 🇭🇰 ghelper-hkbn2
       - ghelper-de	
 rules:
+ - DOMAIN-SUFFIX,xingjiyingshi.com,🎯 全球直连
+ - DOMAIN-SUFFIX,bihai.cf,🎯 全球直连
+ - DOMAIN-SUFFIX,bihai.ml,🎯 全球直连
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
