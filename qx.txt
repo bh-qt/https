@@ -1,33 +1,37 @@
-http=cmgz183.mmkkrr.co:9443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=HK-Cmgz183-9443
-http=cmgz183.mmkkrr.co:991, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=HK-Cmgz183-991
-http=cmgz241.mmkkrr.co:991, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=HK-Cmgz241-991
-http=cmgz241.mmkkrr.co:994, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=HK-Cmgz241-994
+# username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95
+http=a1.ap.fastqvpn.com:29980, username= username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a1-4195
+http=a2.ap.fastqvpn.com:29980, username= username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a2-4195
+http=a3.ap.fastqvpn.com:29980, username= username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a3-4195
+http=a4.ap.fastqvpn.com:29980, username= username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a4-4195
+http=a5.ap.fastqvpn.com:29980, username= username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a5-4195
+http=global.ap.fastqvpn.com:29980, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-HK-G1-4195
+http=global.ap.fastqvpn.com:29982, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-AU-G2-4195
+http=global.ap.fastqvpn.com:29983, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-CA-G3-4195
+http=global.ap.fastqvpn.com:29984, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-DE-G4-4195
+http=global.ap.fastqvpn.com:29985, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-JP-G5-4195
+http=global.ap.fastqvpn.com:29986, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-SG-G6-4195
+http=global.ap.fastqvpn.com:29987, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-UK-G7-4195
+http=global.ap.fastqvpn.com:29988, username=username= 419519931755790336, password= 5b06790d-ca45-4a31-8706-1ff7df281a95, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-US-G7-4195
+
+# username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b
+http=a1.ap.fastqvpn.com:29980, username= username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a1-4209
+http=a2.ap.fastqvpn.com:29980, username= username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a2-4209
+http=a3.ap.fastqvpn.com:29980, username= username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a3-4209
+http=a4.ap.fastqvpn.com:29980, username= username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a4-4209
+http=a5.ap.fastqvpn.com:29980, username= username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a5-4209
+http=global.ap.fastqvpn.com:29980, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-HK-G1-4209
+http=global.ap.fastqvpn.com:29982, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-AU-G2-4209
+http=global.ap.fastqvpn.com:29983, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-CA-G3-4209
+http=global.ap.fastqvpn.com:29984, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-DE-G4-4209
+http=global.ap.fastqvpn.com:29985, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-JP-G5-4209
+http=global.ap.fastqvpn.com:29986, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-SG-G6-4209
+http=global.ap.fastqvpn.com:29987, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-UK-G7-4209
+http=global.ap.fastqvpn.com:29988, username=username= 420954866794364928, password= 6477e206-7370-40a3-b68a-6d49ec65859b, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Fastq-US-G7-4209
+
 http=bv1.innlym.me:443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=US-Innlym
 http=neo.ppvpn.net:1026, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=US-Ppvpn
 http=fanfanhai.xyz:443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fanfanhai
 http=mmkker.xyz:443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=mmkker
 http=hkbn1.ghelper.net:443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ghelper-hkbn1
 http=hkbn2.ghelper.net:443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ghelper-hkbn2
-http=tw.ghelper.net:443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ghelper-tw
 http=de.ghelper.net:443, username= , password= , over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=ghelper-de
-
-#fastqvpn-4046
-http=a1.ap.fastqvpn.com:29980, username= 404641112670601216, password= 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a1-4046
-http=a2.ap.fastqvpn.com:29980, username= 404641112670601216, password= 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a2-4046
-http=a3.ap.fastqvpn.com:29980, username= 404641112670601216, password= 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a3-4046
-http=a4.ap.fastqvpn.com:29980, username= 404641112670601216, password= 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a4-4046
-http=a5.ap.fastqvpn.com:29980, username= 404641112670601216, password= 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a5-4046
-http=ap1-au.er3.xyz:29982, username=404641112670601216, password=2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=er3-au-4046
-http=ap1-ca.er3.xyz:29983, username=404641112670601216, password=2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=er3-ca-4046
-http=ap1-ge.er3.xyz:29984, username=404641112670601216, password=2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=er3-ge-4046
-#fastqvpn-4053
-http=a1.ap.fastqvpn.com:29980, username= 405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a1-4053
-http=a2.ap.fastqvpn.com:29980, username= 405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a2-4053
-http=a3.ap.fastqvpn.com:29980, username= 405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a3-4053
-http=a4.ap.fastqvpn.com:29980, username= 405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a4-4053
-http=a5.ap.fastqvpn.com:29980, username= 405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=fastqvpn-a5-4053
-http=ap1-au.er3.xyz:29982, username=405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=er3-au-4053
-http=ap1-ca.er3.xyz:29983, username=405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=er3-ca-4053
-http=ap1-ge.er3.xyz:29984, username=405367546741522432, password= abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=er3-ge-4053
-
-
