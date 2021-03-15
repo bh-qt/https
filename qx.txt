@@ -1,48 +1,48 @@
-http = a1.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a1-40536
-http = a2.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a2-40536
-http = a3.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a3-40536
-http = a4.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a4-40536
-http = a5.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a5-40536
-http = global.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇭🇰 Fastq-HK-G1-40536
-http = global.ap.fastqvpn.com:29982, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇦🇺 Fastq-AU-G2-40536
-http = global.ap.fastqvpn.com:29983, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-CA-G3-40536
-http = global.ap.fastqvpn.com:29984, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇩🇪 Fastq-DE-G4-40536
-http = global.ap.fastqvpn.com:29985, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇯🇵 Fastq-JP-G5-40536
-http = global.ap.fastqvpn.com:29986, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇸🇬 Fastq-SG-G6-40536
-http = global.ap.fastqvpn.com:29987, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇬🇧 Fastq-UK-G7-40536
-http = global.ap.fastqvpn.com:29988, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇺🇲 Fastq-US-G8-40536
-http = a1.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a1-41692
-http = a2.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a2-41692
-http = a3.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a3-41692
-http = a4.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a4-41692
-http = a5.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a5-41692
-http = global.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇭🇰 Fastq-HK-G1-41692
-http = global.ap.fastqvpn.com:29982, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇦🇺 Fastq-AU-G2-41692
-http = global.ap.fastqvpn.com:29983, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-CA-G3-41692
-http = global.ap.fastqvpn.com:29984, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇩🇪 Fastq-DE-G4-41692
-http = global.ap.fastqvpn.com:29985, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇯🇵 Fastq-JP-G5-41692
-http = global.ap.fastqvpn.com:29986, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇸🇬 Fastq-SG-G6-41692
-http = global.ap.fastqvpn.com:29987, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇬🇧 Fastq-UK-G7-41692
-http = global.ap.fastqvpn.com:29988, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇺🇲 Fastq-US-G8-41692
-http = bv1.innlym.me:443, username=none, password=none, over-tls=true, tls-verification=true, tag=Innlym
-http = fanfanhai.xyz:443, username=none, password=none, over-tls=true, tls-verification=true, tag=fanfanhai
-http = hkbn1.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=🇭🇰 ghelper-hkbn1
-http = hkbn2.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=🇭🇰 ghelper-hkbn2
-http = he.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=he.ghelper.net
-http = sg.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg.epic
-http = sg2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg2.epic
-http = sg3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg3.epic
-http = fr.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr.epic
-http = fr2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr2.epic
-http = fr3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr3.epic
-http = us1.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇺🇲 us1.epic
-http = sf3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sf3.epic
-http = uk.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇬🇧 uk.epic
-http = uk2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇬🇧 uk2.epic
-http = ne.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne.epic
-http = ne2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne2.epic
-http = ne3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne3.epic
-http = de2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=de2.epic
-http = in.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in.epic
-http = in2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in2.epic
-http = in3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in3.epic
+http=a1.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a1-40536
+http=a2.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a2-40536
+http=a3.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a3-40536
+http=a4.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a4-40536
+http=a5.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a5-40536
+http=global.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇭🇰 Fastq-HK-G1-40536
+http=global.ap.fastqvpn.com:29982, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇦🇺 Fastq-AU-G2-40536
+http=global.ap.fastqvpn.com:29983, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-CA-G3-40536
+http=global.ap.fastqvpn.com:29984, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇩🇪 Fastq-DE-G4-40536
+http=global.ap.fastqvpn.com:29985, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇯🇵 Fastq-JP-G5-40536
+http=global.ap.fastqvpn.com:29986, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇸🇬 Fastq-SG-G6-40536
+http=global.ap.fastqvpn.com:29987, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇬🇧 Fastq-UK-G7-40536
+http=global.ap.fastqvpn.com:29988, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇺🇲 Fastq-US-G8-40536
+http=a1.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a1-41692
+http=a2.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a2-41692
+http=a3.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a3-41692
+http=a4.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a4-41692
+http=a5.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a5-41692
+http=global.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇭🇰 Fastq-HK-G1-41692
+http=global.ap.fastqvpn.com:29982, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇦🇺 Fastq-AU-G2-41692
+http=global.ap.fastqvpn.com:29983, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-CA-G3-41692
+http=global.ap.fastqvpn.com:29984, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇩🇪 Fastq-DE-G4-41692
+http=global.ap.fastqvpn.com:29985, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇯🇵 Fastq-JP-G5-41692
+http=global.ap.fastqvpn.com:29986, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇸🇬 Fastq-SG-G6-41692
+http=global.ap.fastqvpn.com:29987, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇬🇧 Fastq-UK-G7-41692
+http=global.ap.fastqvpn.com:29988, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇺🇲 Fastq-US-G8-41692
+http=bv1.innlym.me:443, username=none, password=none, over-tls=true, tls-verification=true, tag=Innlym
+http=fanfanhai.xyz:443, username=none, password=none, over-tls=true, tls-verification=true, tag=fanfanhai
+http=hkbn1.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=🇭🇰 ghelper-hkbn1
+http=hkbn2.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=🇭🇰 ghelper-hkbn2
+http=he.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=he.ghelper.net
+http=sg.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg.epic
+http=sg2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg2.epic
+http=sg3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg3.epic
+http=fr.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr.epic
+http=fr2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr2.epic
+http=fr3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr3.epic
+http=us1.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇺🇲 us1.epic
+http=sf3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sf3.epic
+http=uk.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇬🇧 uk.epic
+http=uk2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇬🇧 uk2.epic
+http=ne.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne.epic
+http=ne2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne2.epic
+http=ne3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne3.epic
+http=de2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=de2.epic
+http=in.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in.epic
+http=in2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in2.epic
+http=in3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in3.epic
