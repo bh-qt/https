@@ -29,10 +29,25 @@ proxies:
   - {name: 🇸🇬 Fastq-SG-G6-41692, server: global.ap.fastqvpn.com, port: 29986, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
   - {name: 🇬🇧 Fastq-UK-G7-41692, server: global.ap.fastqvpn.com, port: 29987, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
   - {name: 🇺🇸 Fastq-US-G8-41692, server: global.ap.fastqvpn.com, port: 29988, type: http, username: 416925204208418816, password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9, tls: true, skip-cert-verify: false}
-  - {name: 🇺🇸 US-Innlym, server: bv1.innlym.me, port: 443, type: http, tls: true, skip-cert-verify: false}
-  - {name: 🇺🇸 US-Ppvpn, server: neo.ppvpn.net, port: 1026, type: http, tls: true, skip-cert-verify: false}
+  - {name: Innlym, server: bv1.innlym.me, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: fanfanhai, server: fanfanhai.xyz, port: 443, type: http, tls: true, skip-cert-verify: false}
-  - {name: mmkker, server: mmkker.xyz, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 ghelper-hkbn1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 ghelper-hkbn2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
-  - {name: ghelper-de, server: de.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}  
+  - {name: he.ghelper.net, server: he.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+  - {name: sg.epic, server: sg.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: sg2.epic, server: sg2.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: sg3.epic, server: sg3.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: fr.epic, server: fr.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: fr2.epic, server: fr2.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: fr3.epic, server: fr3.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇺🇲 us1.epic, server: us1.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: sf3.epic, server: sf3.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇬🇧 uk.epic, server: uk.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇬🇧 uk2.epic, server: uk2.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: ne.epic, server: ne.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: ne2.epic, server: ne2.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: ne3.epic, server: ne3.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: de2.epic, server: de2.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: in.epic, server: in.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: in2.epic, server: in2.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}
+  - {name: in3.epic, server: in3.epicbrowser.net, port: 8888, type: http, tls: true, skip-cert-verify: false}  
