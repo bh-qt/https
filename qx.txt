@@ -1,48 +1,144 @@
-http=a1.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a1-40536
-http=a2.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a2-40536
-http=a3.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a3-40536
-http=a4.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a4-40536
-http=a5.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-a5-40536
-http=global.ap.fastqvpn.com:29980, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇭🇰 Fastq-HK-G1-40536
-http=global.ap.fastqvpn.com:29982, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇦🇺 Fastq-AU-G2-40536
-http=global.ap.fastqvpn.com:29983, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=Fastq-CA-G3-40536
-http=global.ap.fastqvpn.com:29984, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇩🇪 Fastq-DE-G4-40536
-http=global.ap.fastqvpn.com:29985, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇯🇵 Fastq-JP-G5-40536
-http=global.ap.fastqvpn.com:29986, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇸🇬 Fastq-SG-G6-40536
-http=global.ap.fastqvpn.com:29987, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇬🇧 Fastq-UK-G7-40536
-http=global.ap.fastqvpn.com:29988, username=405367546741522432, password=abae5ebd-9abf-419e-b68b-a31e8f5096ac, over-tls=true, tls-verification=true, tag=🇺🇲 Fastq-US-G8-40536
-http=a1.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a1-41692
-http=a2.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a2-41692
-http=a3.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a3-41692
-http=a4.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a4-41692
-http=a5.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-a5-41692
-http=global.ap.fastqvpn.com:29980, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇭🇰 Fastq-HK-G1-41692
-http=global.ap.fastqvpn.com:29982, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇦🇺 Fastq-AU-G2-41692
-http=global.ap.fastqvpn.com:29983, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=Fastq-CA-G3-41692
-http=global.ap.fastqvpn.com:29984, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇩🇪 Fastq-DE-G4-41692
-http=global.ap.fastqvpn.com:29985, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇯🇵 Fastq-JP-G5-41692
-http=global.ap.fastqvpn.com:29986, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇸🇬 Fastq-SG-G6-41692
-http=global.ap.fastqvpn.com:29987, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇬🇧 Fastq-UK-G7-41692
-http=global.ap.fastqvpn.com:29988, username=416925204208418816, password=55842c8a-5251-4b54-a6ed-bbb7e917f9d9, over-tls=true, tls-verification=true, tag=🇺🇲 Fastq-US-G8-41692
-http=bv1.innlym.me:443, username=none, password=none, over-tls=true, tls-verification=true, tag=Innlym
-http=fanfanhai.xyz:443, username=none, password=none, over-tls=true, tls-verification=true, tag=fanfanhai
-http=hkbn1.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=🇭🇰 ghelper-hkbn1
-http=hkbn2.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=🇭🇰 ghelper-hkbn2
-http=he.ghelper.net:443, username=none, password=none, over-tls=true, tls-verification=true, tag=he.ghelper.net
-http=sg.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg.epic
-http=sg2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg2.epic
-http=sg3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sg3.epic
-http=fr.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr.epic
-http=fr2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr2.epic
-http=fr3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=fr3.epic
-http=us1.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇺🇲 us1.epic
-http=sf3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=sf3.epic
-http=uk.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇬🇧 uk.epic
-http=uk2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=🇬🇧 uk2.epic
-http=ne.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne.epic
-http=ne2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne2.epic
-http=ne3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=ne3.epic
-http=de2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=de2.epic
-http=in.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in.epic
-http=in2.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in2.epic
-http=in3.epicbrowser.net:8888, username=none, password=none, over-tls=true, tls-verification=true, tag=in3.epic
+[general]
+excluded_routes=192.168.0.0/16, 172.16.0.0/12, 100.64.0.0/10, 10.0.0.0/8
+geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://github.com/KOP-XIAO/QuantumultX/raw/master/Scripts/IP_API.js
+network_check_url=http://www.baidu.com/
+server_check_url=http://www.gstatic.com/generate_204
+
+[dns]
+server=119.29.29.29
+server=223.5.5.5
+server=1.0.0.1
+server=8.8.8.8
+
+[policy]
+static=🚀 节点选择, ♻️ 自动选择, DIRECT, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn
+available=♻️ 自动选择, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png
+static=🌍 国外媒体, 🚀 节点选择, ♻️ 自动选择, 🎯 全球直连, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
+static=📲 电报信息, 🚀 节点选择, 🎯 全球直连, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+static=Ⓜ️ 微软服务, 🎯 全球直连, 🚀 节点选择, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Microsoft.png
+static=🍎 苹果服务, 🚀 节点选择, 🎯 全球直连, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
+static=📢 谷歌FCM, 🚀 节点选择, 🎯 全球直连, ♻️ 自动选择, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn
+static=🎯 全球直连, DIRECT, 🚀 节点选择, ♻️ 自动选择, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png
+static=🛑 全球拦截, REJECT, DIRECT, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
+static=🍃 应用净化, REJECT, DIRECT
+static=🐟 漏网之鱼, 🚀 节点选择, 🎯 全球直连, ♻️ 自动选择, A1, A2, A3, A4, A5, G1, G2, G3, G4, G5, G6, G7, G8, TX1, TX2, TX3, TX4, TX5, TX6, TX7, TX8, ER1, ER2, ER3, ER4, ER5, ER6, ER7, ER8, GE1, GE2, GE3, GE4, GE5, GE6, GE7, GE8, 🇯🇵 JP1, 🇯🇵 JP2, 🇯🇵 JP3, 🇯🇵 JP4, 🇯🇵 JP5, 🇯🇵 JP6, 🇯🇵 JP7, 🇯🇵 JP8, 🇸🇬 SG1, 🇸🇬 SG2, 🇸🇬 SG3, 🇸🇬 SG4, 🇸🇬 SG5, 🇸🇬 SG6, 🇸🇬 SG7, 🇸🇬 SG8, 🇦🇺 AU1, 🇦🇺 AU2, 🇦🇺 AU3, 🇦🇺 AU4, 🇦🇺 AU5, 🇦🇺 AU6, 🇦🇺 AU7, 🇦🇺 AU8, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, 🇬🇧 UK1, 🇬🇧 UK2, 🇬🇧 UK3, 🇬🇧 UK4, 🇬🇧 UK5, 🇬🇧 UK6, 🇬🇧 UK7, 🇬🇧 UK8, 🇺🇸 US1, 🇺🇸 US2, 🇺🇸 US3, 🇺🇸 US4, 🇺🇸 US5, 🇺🇸 US6, 🇺🇸 US7, 🇺🇸 US8, Ghelper1, Ghelper2, Fanfanhai, Innlym, Ppvpn, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
+
+[server_remote]
+
+[filter_remote]
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvTG9jYWxBcmVhTmV0d29yay5saXN0&group=8J-OryDlhajnkIPnm7Tov54, tag=🎯 全球直连, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvVW5CYW4ubGlzdA&group=8J-OryDlhajnkIPnm7Tov54, tag=🎯 全球直连, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQmFuQUQubGlzdA&group=8J-bkSDlhajnkIPmi6bmiKo, tag=🛑 全球拦截, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQmFuUHJvZ3JhbUFELmxpc3Q&group=8J-NgyDlupTnlKjlh4DljJY, tag=🍃 应用净化, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUnVsZXNldC9Hb29nbGVGQ00ubGlzdA&group=8J-ToiDosLfmrYxGQ00, tag=📢 谷歌FCM, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvR29vZ2xlQ04ubGlzdA&group=8J-OryDlhajnkIPnm7Tov54, tag=🎯 全球直连, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvTWljcm9zb2Z0Lmxpc3Q&group=4pOC77iPIOW-rui9r-acjeWKoQ, tag=Ⓜ️ 微软服务, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQXBwbGUubGlzdA&group=8J-NjiDoi7nmnpzmnI3liqE, tag=🍎 苹果服务, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvVGVsZWdyYW0ubGlzdA&group=8J-TsiDnlLXmiqXkv6Hmga8, tag=📲 电报信息, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUHJveHlNZWRpYS5saXN0&group=8J-MjSDlm73lpJblqpLkvZM, tag=🌍 国外媒体, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvUHJveHlMaXRlLmxpc3Q&group=8J-agCDoioLngrnpgInmi6k, tag=🚀 节点选择, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQ2hpbmFEb21haW4ubGlzdA&group=8J-OryDlhajnkIPnm7Tov54, tag=🎯 全球直连, enabled=true
+https://suc.bihai.ml/getruleset?type=2&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvQ2hpbmFDb21wYW55SXAubGlzdA&group=8J-OryDlhajnkIPnm7Tov54, tag=🎯 全球直连, enabled=true
+
+[rewrite_remote]
+
+[server_local]
+http=a1.ap.fastqvpn.com:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=A1
+http=a2.ap.fastqvpn.com:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=A2
+http=a3.ap.fastqvpn.com:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=A3
+http=a4.ap.fastqvpn.com:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=A4
+http=a5.ap.fastqvpn.com:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=A5
+http=global.ap.fastqvpn.com:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G1
+http=global.ap.fastqvpn.com:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G2
+http=global.ap.fastqvpn.com:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G3
+http=global.ap.fastqvpn.com:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G4
+http=global.ap.fastqvpn.com:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G5
+http=global.ap.fastqvpn.com:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G6
+http=global.ap.fastqvpn.com:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G7
+http=global.ap.fastqvpn.com:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=G8
+http=tx.wy.fastqvpn.com:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX1
+http=tx.wy.fastqvpn.com:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX2
+http=tx.wy.fastqvpn.com:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX3
+http=tx.wy.fastqvpn.com:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX4
+http=tx.wy.fastqvpn.com:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX5
+http=tx.wy.fastqvpn.com:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX6
+http=tx.wy.fastqvpn.com:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX7
+http=tx.wy.fastqvpn.com:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=TX8
+http=a1.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER1
+http=a1.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER2
+http=a1.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER3
+http=a1.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER4
+http=a1.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER5
+http=a1.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER6
+http=a1.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER7
+http=a1.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=ER8
+http=ap1-ge.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE1
+http=ap1-ge.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE2
+http=ap1-ge.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE3
+http=ap1-ge.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE4
+http=ap1-ge.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE5
+http=ap1-ge.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE6
+http=ap1-ge.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE7
+http=ap1-ge.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=GE8
+http=ap1-jp.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP1
+http=ap1-jp.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP2
+http=ap1-jp.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP3
+http=ap1-jp.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP4
+http=ap1-jp.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP5
+http=ap1-jp.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP6
+http=ap1-jp.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP7
+http=ap1-jp.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇯🇵 JP8
+http=ap1-sg.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG1
+http=ap1-sg.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG2
+http=ap1-sg.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG3
+http=ap1-sg.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG4
+http=ap1-sg.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG5
+http=ap1-sg.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG6
+http=ap1-sg.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG7
+http=ap1-sg.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 SG8
+http=ap1-au.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU1
+http=ap1-au.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU2
+http=ap1-au.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU3
+http=ap1-au.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU4
+http=ap1-au.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU5
+http=ap1-au.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU6
+http=ap1-au.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU7
+http=ap1-au.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 AU8
+http=ap1-ca.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA1
+http=ap1-ca.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA2
+http=ap1-ca.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA3
+http=ap1-ca.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA4
+http=ap1-ca.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA5
+http=ap1-ca.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA6
+http=ap1-ca.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA7
+http=ap1-ca.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=CA8
+http=ap1-uk.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK1
+http=ap1-uk.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK2
+http=ap1-uk.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK3
+http=ap1-uk.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK4
+http=ap1-uk.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK5
+http=ap1-uk.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK6
+http=ap1-uk.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK7
+http=ap1-uk.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇬🇧 UK8
+http=ap1-us.er3.xyz:29980, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US1
+http=ap1-us.er3.xyz:29982, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US2
+http=ap1-us.er3.xyz:29983, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US3
+http=ap1-us.er3.xyz:29984, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US4
+http=ap1-us.er3.xyz:29985, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US5
+http=ap1-us.er3.xyz:29986, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US6
+http=ap1-us.er3.xyz:29987, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US7
+http=ap1-us.er3.xyz:29988, username=420002646544351232, password=ddc9e495-f697-4c10-84a9-b885f8100535, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US8
+http=hkbn1.ghelper.net:443, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=Ghelper1
+http=hkbn2.ghelper.net:443, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=Ghelper2
+http=fanfanhai.xyz:443, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=Fanfanhai
+http=bv1.innlym.me:443, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=Innlym
+http=neo.ppvpn.net:1026, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=Ppvpn
+
+[filter_local]
+GEOIP,CN,🎯 全球直连
+FINAL,🐟 漏网之鱼
+
+[rewrite_local]
+
+[mitm]
+
