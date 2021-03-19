@@ -4,14 +4,14 @@ proxies:
   - {name: A3, server: a3.ap.fastqvpn.com, port: 29980, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
   - {name: A4, server: a4.ap.fastqvpn.com, port: 29980, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
   - {name: A5, server: a5.ap.fastqvpn.com, port: 29980, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
-  - {name: 🇭🇰 G1, server: global.ap.fastqvpn.com, port: 29980, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇦🇺 G2, server: global.ap.fastqvpn.com, port: 29982, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇨🇦 G3, server: global.ap.fastqvpn.com, port: 29983, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇩🇪 G4, server: global.ap.fastqvpn.com, port: 29984, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇯🇵 G5, server: global.ap.fastqvpn.com, port: 29985, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇸🇬 G6, server: global.ap.fastqvpn.com, port: 29986, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇬🇧 G7, server: global.ap.fastqvpn.com, port: 29987, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 G8, server: global.ap.fastqvpn.com, port: 29988, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 G1, server: global.ap.fastqvpn.com, port: 29980, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇦🇺 G2, server: global.ap.fastqvpn.com, port: 29982, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇨🇦 G3, server: global.ap.fastqvpn.com, port: 29983, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇩🇪 G4, server: global.ap.fastqvpn.com, port: 29984, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇯🇵 G5, server: global.ap.fastqvpn.com, port: 29985, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 G6, server: global.ap.fastqvpn.com, port: 29986, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇬🇧 G7, server: global.ap.fastqvpn.com, port: 29987, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇺🇸 G8, server: global.ap.fastqvpn.com, port: 29988, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 TX1, server: tx.wy.fastqvpn.com, port: 29980, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇦🇺 TX2, server: tx.wy.fastqvpn.com, port: 29982, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇨🇦 TX3, server: tx.wy.fastqvpn.com, port: 29983, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
@@ -84,6 +84,6 @@ proxies:
   - {name: 🇺🇸 US6, server: ap1-us.er3.xyz, port: 29986, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇺🇸 US7, server: ap1-us.er3.xyz, port: 29987, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇺🇸 US8, server: ap1-us.er3.xyz, port: 29988, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 Ghelper1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 Ghelper2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 Ghelper1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇭🇰 Ghelper2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
 
