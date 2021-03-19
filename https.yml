@@ -90,11 +90,9 @@ proxies:
   - {name: 🇺🇸 US6, server: ap1-us.er3.xyz, port: 29986, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇺🇸 US7, server: ap1-us.er3.xyz, port: 29987, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇺🇸 US8, server: ap1-us.er3.xyz, port: 29988, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 Ghelper1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 Ghelper2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 Fanfanhai, server: fanfanhai.xyz, port: 443, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 Innlym, server: bv1.innlym.me, port: 443, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇺🇸 Ppvpn, server: neo.ppvpn.net, port: 1026, type: http, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 Ghelper1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇭🇰 Ghelper2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+
 
 proxy-groups:
   - name: 🚀 节点选择
@@ -189,9 +187,6 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
 
   - name: ♻️ 自动选择
     type: url-test
@@ -286,9 +281,7 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
+
 
   - name: 🌍 国外媒体
     type: select
@@ -383,9 +376,7 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
+
   - name: 📲 电报信息
     type: select
     proxies:
@@ -478,9 +469,7 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
+
 
   - name: Ⓜ️ 微软服务
     type: select
@@ -574,9 +563,7 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
+
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -669,9 +656,7 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
+
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -765,9 +750,7 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
+
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -877,9 +860,7 @@ proxy-groups:
       - 🇺🇸 US8
       - 🇭🇰 Ghelper1
       - 🇭🇰 Ghelper2
-      - 🇺🇸 Fanfanhai
-      - 🇺🇸 Innlym
-      - 🇺🇸 Ppvpn
+
 rules:
  - DOMAIN-SUFFIX,bihai.ml,🎯 全球直连
  - DOMAIN-SUFFIX,bhys.ltd,🎯 全球直连
