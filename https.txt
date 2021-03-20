@@ -84,6 +84,6 @@ proxies:
   - {name: 🇺🇸 US6, server: ap1-us.er3.xyz, port: 29986, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇺🇸 US7, server: ap1-us.er3.xyz, port: 29987, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
   - {name: 🇺🇸 US8, server: ap1-us.er3.xyz, port: 29988, username: 414555270656557056, password: d45d85cb-8129-4f5d-a085-c8549b3fd17e, type: http, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 Ghelper1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+
   - {name: 🇭🇰 Ghelper2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
 
