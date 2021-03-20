@@ -83,7 +83,6 @@ http=ap1-us.er3.xyz:29985, username= 414555270656557056, password= d45d85cb-8129
 http=ap1-us.er3.xyz:29986, username= 414555270656557056, password= d45d85cb-8129-4f5d-a085-c8549b3fd17e, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US6
 http=ap1-us.er3.xyz:29987, username= 414555270656557056, password= d45d85cb-8129-4f5d-a085-c8549b3fd17e, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US7
 http=ap1-us.er3.xyz:29988, username= 414555270656557056, password= d45d85cb-8129-4f5d-a085-c8549b3fd17e, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇺🇸 US8
-http=hkbn1.ghelper.net:443, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=Ghelper1
 http=hkbn2.ghelper.net:443, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=Ghelper2
 
 
